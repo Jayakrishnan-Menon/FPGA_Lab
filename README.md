@@ -1,5 +1,5 @@
 # FPGA_Lab
-Includes the experiments done on an FPGA kit during the lab course of FPGA Based System Design, in my 6th semester of B-Tech
+Includes the experiments done on Cyclone® V SX SoC—5CSXFC6D6F31C6N (SoC) FPGA kit during the lab course of FPGA Based System Design, in my 6th semester of B-Tech
 
 Special Focus on the code is prioritized on github. For further information regarding individual lab experiments, please go through the attached documentation in pdf format, where each task and the outputs have been documented thoroughly.
 For Quick access the links to the documantation are provided below:
